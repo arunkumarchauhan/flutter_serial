@@ -103,9 +103,9 @@ public class OpenCommunication  {
             }
         }
 
-        if (TextUtils.equals(currentPort, checkPort)) {
-            return;
-        }
+//        if (TextUtils.equals(currentPort, checkPort)) {
+//            return;
+//        }
 
         if (!TextUtils.isEmpty(currentPort)) {
             // Close the CurrentPort serial port
