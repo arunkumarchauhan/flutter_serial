@@ -1,6 +1,6 @@
 name: flutter_serial
 description: This Plugin uses c library and java on the android side for serial communication
-version: 0.0.3
+version: 0.0.4
 homepage: https://github.com/arunkumarchauhan/flutter_serial
 
 environment:
